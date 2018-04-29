@@ -12,7 +12,7 @@ NO_COLD_COMMITS=50
 NO_BLANK_COMMITS=1
 
 # URL of the repo to which dummy commits is pushed
-REPO="git@github.com:arpith20/GitHubBanner.git"
+REPO="git@github.com:arpith20/banner.git"
 #------------------
 
 DIR=`pwd`
